@@ -1,0 +1,2 @@
+# Myscape-files
+MyScape
